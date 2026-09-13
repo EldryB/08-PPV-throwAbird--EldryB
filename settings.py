@@ -33,7 +33,7 @@ input_handler.InputHandler.set_mouse_click_action(
 input_handler.InputHandler.set_mouse_motion_action(None, "touch_motion")
 
 input_handler.InputHandler.set_keyboard_action(input_handler.KEY_SPACE, "split")
-SPLIT_ANGLE = 0.261799  # 15 grados en radianes
+SPLIT_ANGLE = 0.261799  # 15 degrees in radians
 
 TITLE = "Throw a Bird"
 
